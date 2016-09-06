@@ -1,0 +1,13 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Scripts_Juego\Script_Menu\Letras_Intro.js">
+    <Files>
+      <File FileName="Assets\Scripts\Scripts_Juego\Aumentar_Intensidad_Luz.js" Line="10" Column="37" />
+      <File FileName="Assets\Scripts\Scripts_Juego\Script_Menu\Letras_Intro.js" Line="53" Column="37" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

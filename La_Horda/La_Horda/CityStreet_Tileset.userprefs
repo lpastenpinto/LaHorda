@@ -1,0 +1,14 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Scripts_Juego\Movimiento_Zombie.js">
+    <Files>
+      <File FileName="Assets\Scripts\Scripts_Juego\Script_Menu\Pause Menu\Pause.js" Line="22" Column="4" />
+      <File FileName="Assets\Scripts\Scripts_Juego\Movimiento_Zombie.js" Line="40" Column="25" />
+      <File FileName="Assets\Scripts\Scripts_Juego\Script_Menu\Pause Menu\PauseMenu.js" Line="14" Column="26" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
